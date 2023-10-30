@@ -1,0 +1,5 @@
+train : /path/
+val : /path/
+
+ns : 2
+names : ["crack", "potholed"]
